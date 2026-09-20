@@ -38,7 +38,7 @@
 
 **Luau · Web · AI Spec · RSE**
 
-I break Discord until it does what I want, then call it a feature.
+please roast my code. i'm into that.
 
 ---
 
