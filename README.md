@@ -38,7 +38,7 @@
 
 **Luau · Web · AI Spec · RSE**
 
-building tools, messing with clients, shipping stuff that looks cool and actually works.
+I break Discord until it does what I want, then call it a feature.
 
 ---
 
