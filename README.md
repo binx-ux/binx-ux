@@ -2,7 +2,6 @@
 
 Luau Dev | Web Dev | AI Spec | RSE
 
-I use AI, yes — but all my code is my own. AI is only for debug and fix, not to make it.
 
 ## 🌐 Links
 - [guns.lol](https://guns.lol/kynvyr_)
