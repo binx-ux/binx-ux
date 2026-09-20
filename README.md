@@ -1,20 +1,68 @@
-# 👋 Hi, I'm Kynvyr
+```
+⠀⠀⡄⢸⢘⡄⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢧⢿⡏⣿⢠⡟⠀⠀⠀⡀⠀⠀⠀⣿⣿⣿⡏⠀⠀⠀⣞⡇⢀⢷⡇⡞⠀⢸⠈⣉⠏⡌⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸⠀⡇⠀
+⠀⠀⠇⠈⡞⡇⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟⡜⡿⠀⣿⣸⣁⣀⣀⣠⣿⣄⠀⢀⣿⣿⣿⠃⠀⠀⣸⢹⠀⣸⣮⣇⣇⣀⣾⣀⢹⠀⠰⡘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⢸⢸⠀⠀
+⠀⠀⡇⠀⣧⡇⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⡹⣡⣧⣶⣿⣿⣿⠿⠿⠛⠛⡟⢆⢸⣿⣿⡟⠀⠀⢠⠃⡾⠰⡿⢿⡼⠤⠼⣿⣭⣏⣑⣶⣷⣽⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⡞⣾⡀⠀
+⠀⠀⡇⠀⣿⣷⢸⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢿⠛⠉⠉⡷⠱⡀⠀⠀⠀⠹⢸⡈⠛⠛⠁⠀⠀⠃⠀⠀⠀⠀⠈⠁⠀⢀⠟⠚⠀⠀⠉⠉⢻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣇⣿⣿⡇⠀
+⠀⠀⡇⠀⡿⢿⡾⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠈⠁⠀⠠⡗⠀⠘⢆⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⡆⠀⠀⢠⠊⠀⠀⠀⠀⠀⠀⠀⢻⢿⣿⣿⣿⣿⣿⣿⣿⢻⣿⣿⣿⠀
+⠀⠀⡇⠀⡷⠘⡇⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠀⢀⣀⠤⠴⠶⠤⠼⢦⡀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠰⣀⠤⠓⠒⠒⠓⠦⢤⣀⠀⠀⠀⠻⣿⣿⣿⣿⣿⣿⡿⣼⣿⣿⣿⡀
+⠀⠀⣇⠀⡇⢰⣿⣻⣿⣿⣿⣿⡿⠃⠀⡠⠔⠋⠁⣀⣀⣀⣀⣀⣀⡀⠈⠑⠒⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⣀⣀⣀⢀⣀⡀⢸⠉⠒⢤⡆⠑⣿⣿⣿⣿⣿⣷⣿⣿⣿⣿⡇
+⠀⠀⢸⠀⢇⣼⣿⣿⣿⣿⣿⡟⠁⠀⢀⡤⣖⣊⣭⣥⣶⣶⣶⣶⣦⣬⡳⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣚⣭⣷⣶⠶⠒⠒⠮⠽⣒⣦⣀⠀⠀⠈⠫⡿⣿⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⢸⠀⢸⣿⣿⣿⣿⣿⠋⠀⠀⢞⣥⣾⣿⣿⣟⡥⠤⠖⠒⢺⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡿⣿⣷⠒⠒⠴⠤⣄⣀⠈⠑⠦⡀⠀⠀⠨⣷⡿⣿⣿⣿⣿⣿⡇
+⠀⠀⢸⠀⢸⣿⣿⣿⡿⣿⡄⠀⣰⣿⣿⠿⠋⡿⢻⠷⣶⣶⡾⢿⣿⠀⡇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⣯⡾⢶⠖⢲⡾⣯⣻⠉⠲⣼⣿⣆⠀⢠⡿⠓⢳⣻⣿⣿⣿⡇
+⠀⠀⢸⠀⢸⣿⣿⣿⢳⣬⣷⡄⠛⠻⢅⣀⠀⠘⢿⣀⣭⣿⣭⣭⡯⠾⠀⠀⠀⠀⠀⠀⠀⡠⠒⠢⡀⠀⠀⠀⠀⠱⠽⠮⢤⣭⣽⣁⣼⠊⠀⠀⠀⠉⠉⠀⡼⢲⡇⠀⣿⣿⣿⣿⡇
+⠀⠀⢸⠀⢸⣿⣿⣿⢸⣷⣽⣇⡀⠀⠀⠀⠛⡟⠛⡉⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠘⢆⠀⠀⠀⠀⠀⠀⠀⠀⡈⠉⠒⠛⠋⠀⠀⠀⠀⣰⡃⢀⠇⣸⣿⣿⣿⣿⡇
+⠀⠀⢸⠀⣸⣿⣿⣿⣎⠳⢿⣿⣷⡀⠀⣰⢻⢱⢰⢁⢇⠇⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⡜⠀⠀⠀⠀⠀⠀⠀⠀⡇⠀⠀⠀⠀⠀⠀⠀⣰⡷⣳⡁⣴⣷⣿⣿⣿⣿⡇
+⠀⠀⢸⡄⣿⣿⣿⣿⣿⣷⣔⠿⣿⡷⡘⢣⢇⢏⠇⡼⠘⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣇⣀⡠⠊⠀⠀⠀⠀⠀⠀⠀⠀⢠⠀⠀⠀⠀⠀⠀⠀⢠⡫⠔⣫⣾⣿⣿⣿⣿⣿⣿⡇
+⠀⠀⢸⣇⣿⣿⣿⣿⣿⣿⣿⣷⣤⡽⡵⡄⠀⠘⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠀⠀⠀⠀⠠⠀⠀⠀⠀⠀⡜⠀⠀⠀⠀⠀⠀⣠⣃⣠⡾⣯⣿⣿⣿⣿⣿⣿⣿⠃
+⠀⠀⡈⢹⣿⣿⣿⣿⣿⣿⣿⡟⢡⡄⠙⣜⢆⠀⠀⢦⠀⠀⠀⠀⠀⠀⠀⠀⢰⣶⣾⣿⡯⠭⠭⠭⠭⠗⢒⡆⠀⠀⠀⠀⢠⠃⠀⠀⠀⠀⠀⣰⠛⠀⢙⢦⣿⣿⣿⣿⣿⣿⣿⣿⠀
+⠀⠀⡇⣾⣿⣿⣿⣿⣿⣿⣿⣇⠈⠁⠀⢘⣮⢣⡀⢸⡆⠀⠀⠀⠀⠀⠀⠀⠈⢿⣿⣿⣿⣶⠀⠀⠀⢀⡞⠀⠀⠀⠀⢀⠎⠀⠀⠀⠀⠀⣴⢹⠈⠒⠋⣸⣿⣿⣿⣿⣿⣿⣿⡏⢸
+⠀⠀⡇⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣤⣴⣾⣿⣷⣝⢦⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣿⡿⠟⠀⣀⡴⠋⠀⠀⠀⠀⢠⠎⠀⠀⠀⢀⡠⣺⡟⣿⣤⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⠃⡏
+⠀⠀⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣬⡒⢄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠉⠁⠀⠀⠀⠀⢀⡴⠁⠀⠀⣠⣔⠿⠋⣾⣷⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⢸⠁
+⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠿⠿⠿⠿⠿⠿⠿⠿⠿⠷⠮⣗⡤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠴⠋⢀⣠⣔⠟⠚⠁⠀⢰⡟⠿⣿⠿⢿⡿⠿⣻⡼⣿⣿⣿⣿⡇⡏⠀
+⠀⢸⡏⣿⣿⣿⣿⠿⣛⡫⠭⠗⠒⠒⠉⠉⠙⠒⠒⠒⠒⠒⠊⠈⢙⡍⠓⠿⢶⣤⣀⠀⠀⠀⠀⠀⣀⠔⣁⡤⡲⢻⠒⠒⠒⠒⠒⠒⠞⠒⠢⠟⠰⠒⠤⢄⢇⣇⣙⡿⠿⢻⢸⠀⠀
+⠀⣿⡇⣿⣩⠵⠚⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠄⠀⠀⠀⡇⠀⠀⠀⠈⠉⠓⠲⠤⠤⠚⠛⢉⡠⠊⠁⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⠀⠀⠀⠀⠀⠀⠀⡧⢀⣿⡇⠀⠀
+⠀⡟⢧⣿⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⢦⠀⠀⠀⠀⠀⠀⠀⣀⠤⠒⠉⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⡱⠞⠉⠀⠀⠀
+⠀⡇⠸⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⢸⠀⠀⠀⢀⠄⠒⠉⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠛⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠹⡆⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢰⡏⣾⠀⠀⠀⡎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⡄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠞⠁⠛⠀⠀⠀⠇⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠻⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⣀⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠤⠔⠚⠁⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠲⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠐⠒⠒⠒⠒⠒⠠⠤⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠒⠦⠤⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠙⠶⢤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⠎⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠉⠙⠒⠒⠦⠤⠤⢤⣀⣀⡀⠀
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠫⡙⠒⠶⠤⣤⣀⣀⡀⠀⠀⠀⠀⠸⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⡈⠉
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⠤⠚⠁⠀⠀⠀⠀⠀⠀⠉⠉⠁⠈⢦⡀⠈⠢⡀⠀⠀⢀⣀⠀⠀⠀⠀⣀⣀⣀⣀⣀⣀⠀⣀⣀⡀⠀⠠⠤⠤⠤⠒⠒⢊⡀⠀⠀⠀⠈⠑
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⡠⠊⠁⠀⠀⠀⠀⠀⠀⣠⣶⣶⣴⡠⡂⠀⠀⠀⠙⠲⠤⠬⠵⠶⠁⠀⠡⠒⣉⣡⣤⢬⠵⠤⢄⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠑⠢⣄⠀⠀
+⠀⠀⠀⠀⠀⠠⣄⠀⠀⡰⠋⠀⠀⠀⠀⠀⠀⠀⣰⣿⣿⣿⣿⣿⣿⣯⣤⣄⣐⠀⠀⠀⠀⠀⠀⠀⣀⣠⠞⠉⠀⢸⢸⡆⠀⠀⠀⠉⢲⣤⡀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠁⠀
+```
 
-Luau Dev | Web Dev | AI Spec | RSE
+# Kynvyr
 
+**Luau · Web · AI Spec · RSE**
 
-## 🌐 Links
-- [guns.lol](https://guns.lol/kynvyr_)
-- [IG](https://instagram.com/kynvyr/)
-- [BMC](https://buymeacoffee.com/kynvyr)
+building tools, messing with clients, shipping stuff that looks cool and actually works.
 
-## 💻 Skills
-![Luau](https://img.shields.io/badge/Luau-000000?style=for-the-badge&logo=lua&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+---
 
-## 📫 Connect
-- Discord: **kynvyr**
+### links
+
+[guns.lol](https://guns.lol/kynvyr_) · [instagram](https://instagram.com/kynvyr/) · [buy me a coffee](https://buymeacoffee.com/kynvyr)
+
+### stack
+
+![Luau](https://img.shields.io/badge/Luau-111111?style=flat-square&logo=lua&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+### projects
+
+- **[SpotBuddy](https://github.com/binx-ux/curly-sniffle)** — Spotify lyrics on Discord profiles (Vencord). drops Sep 25.
+- **[Music Engine](https://github.com/binx-ux/Music-engine-)** — Windows mixer for mic, music, and soundboard into a virtual cable.
+
+### hit me up
+
+Discord: **kynvyr**
+
+---
 
 © 2026 Kynvyr
