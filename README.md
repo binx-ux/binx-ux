@@ -36,7 +36,7 @@
 
 # Kynvyr
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E11D48&center=false&vCenter=true&width=520&lines=Luau+%C2%B7+Web+%C2%B7+AI+Spec+%C2%B7+RSE;please+roast+my+code.+i'm+into+that.;code+is+mine+%E2%80%94+AI+only+debugs+%26+fixes)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=E11D48&center=false&vCenter=true&width=520&lines=Luau+%C2%B7+Web+%C2%B7+AI+Spec+%C2%B7+RSE;please+roast+my+code.+i'm+into+that.;gamer+%C2%B7+student)](https://git.io/typing-svg)
 
 ---
 
